@@ -1,0 +1,3 @@
+1. If current block number is a multiple of  10, mint twice as much currency to user 
+2. If time of block is later than 5 pm or earlier than 9 am, mint half as much currency to user as they were supposed to get
+3. If block difficulty is a multiple of five, mint five times as much currency to user 
